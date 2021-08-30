@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supermikeeq
-- 👀 I’m interested in javascript, react, typescript, nodejs, mongodb.
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on react components.
+- 👀 I’m interested in javascript, reactjs, typescript, nodejs, mongodb, vuejs
+- 🌱 I’m currently learning reactjs, vuejs
+- 💞️ I’m looking to collaborate on reactjs components.
 - 📫 How to reach me supermikeeq@gmail.com
 
 <!---
